@@ -1,7 +1,5 @@
 # 💬 PrivChat - WebSocket Chat Application
 
-![GitHub License](https://shields.io)
-![GitHub Stars](https://shields.io)
 ![Platform Android](https://shields.io)
 
 **PrivChat** adalah aplikasi *chatting* berbasis Android yang menggunakan metode **WebSocket** untuk komunikasi *real-time* yang cepat, ringan, dan aman. Anda bisa langsung bergabung ke forum global atau membuat ruang obrolan privat Anda sendiri!
@@ -53,7 +51,5 @@ Jika Anda ingin obrolan Anda **jauh lebih aman, privat, dan memiliki forum sendi
 * `src/` & `res/` — Kode sumber dan aset UI aplikasi Android.
 * `api-websocket.js` — Dokumen backend server berbasis WebSocket.
 * `libs/` — *Library* pendukung Java-WebSocket dan SLF4J.
-
----
 
 ⭐ *Jika Anda menyukai proyek ini, jangan ragu untuk memberikan **Star** pada repositori ini!*

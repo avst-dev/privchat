@@ -24,7 +24,7 @@
 
 ### 2. Hubungkan ke Server API
 Secara bawaan, jika Anda ingin langsung bergabung dengan admin dan komunitas di forum global, Anda dapat menggunakan server publik berikut:
-* **Server Default:** `wss://aditya.wsip.uno`
+* **Server Default:** `wss://aditya.wisp.uno`
 
 > 📝 **Cara Masuk:** Cukup buka aplikasi, masukkan nama panggilan (username) Anda, unggah foto profil bebas, lalu Anda siap mengobrol di forum!
 

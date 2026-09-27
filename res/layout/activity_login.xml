@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Privat Chat"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"/>
+
+    <EditText
+        android:id="@+id/etServerUrl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Alamat API Server (ws://...)"
+        android:paddingLeft="12dp"
+        android:layout_marginBottom="16dp"
+        android:inputType="textUri"/>
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Nama Pengguna"
+        android:paddingLeft="12dp"
+        android:layout_marginBottom="16dp"
+        android:inputType="textPersonName"/>
+
+    <Button
+        android:id="@+id/btnSelectPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Pilih Foto Profil"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnConnect"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:text="MASUK WADAH CHAT"
+        android:textStyle="bold"/>
+</LinearLayout>
